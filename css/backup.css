@@ -1,0 +1,218 @@
+* {
+    transition: all 0.5s ease-out;
+  }
+  
+  body {
+    height: 1024px;
+    /*background-image: linear-gradient(0deg, #c9579d 30%, #fc6653);*/
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .recieptMain {
+    width: 788px;
+    height: 1024px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 27px rgba(99, 84, 83, 0.6);
+    font-family: "Poppins", sans-serif;
+    position: relative;
+  }
+  
+  h1 {
+    font-size: 36;
+    width: 628px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    position: relative;
+    top: 36px;
+    font-weight: 600;
+  }
+  
+  #p1 {
+    font-size: 18;
+    position: relative;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #p2 {
+    font-weight: 600;
+    top: 51px;
+    left: 83px;
+    width: 140px;
+  }
+  
+  #p3 {
+    color: #5c5c5c;
+    width: 101px;
+    float: right;
+    top: 23px;
+    right: 327px;
+  }
+  
+  #p4 {
+    font-weight: 600;
+    left: 83px;
+    top: 70px;
+    width: 45px;
+  }
+  
+	#p5{
+    color: #5c5c5c;
+    top: 42px;
+    width: 83px;
+    float: right;
+    right: 80px;
+  }
+  
+  hr {
+    width: 625px;
+    border-color: #635453;
+    color: #635453;
+    background-color: #635453;
+  }
+  
+  .divide1 {
+    position: absolute;
+    left: 82px;
+    top: 198px;
+  }
+  
+  .divide2 {
+    position: absolute;
+    top: 538px;
+    left: 82px;
+  }
+  
+  h4 {
+    font-size: 22px;
+    font-weight: 400;
+    color: #fc6653;
+  }
+  
+  .itemdetails {
+    position: absolute;
+    right: 0;
+    top: 218px;
+    left: 81px;
+  }
+  
+  .shipmentinfo {
+    position: absolute;
+    left: 81px;
+    top: 540px;
+  }
+  
+  img {
+    width: 260px;
+    height: 260px;
+    position: absolute;
+    top: 286px;
+    left: 82px;
+  }
+  
+  #p6 {
+    font-weight: 600;
+    position: absolute;
+    left: 354px;
+    top: 282px;
+  }
+  
+  #p7 {
+    font-weight: 600;
+    position: absolute;
+    right: 114px;
+    top: 282px;
+    width: 197px;
+  }
+  
+  #p8 {
+    position: absolute;
+    font-weight: 600;
+    left: 354px;
+    top: 322px;
+  }
+  
+  #p9 {
+    position: absolute;
+    font-weight: 600;
+    right: 114px;
+    top: 322px;
+  }
+  
+  #p10 {
+    position: absolute;
+    font-weight: 600;
+    left: 354px;
+    top: 362px;
+  }
+  
+  #p11 {
+    position: absolute;
+    font-weight: 600;
+    right: 114px;
+    top: 362px;
+  }
+  
+  #p12 {
+    position: absolute;
+    font-weight: 600;
+    left: 354px;
+    top: 482px;
+  }
+  
+  #p13 {
+    position: absolute;
+    font-weight: 600;
+    right: 114px;
+    top: 482px;
+  }
+  
+  .customerinfo {
+    list-style: none;
+    position: absolute;
+    top: 604px;
+    left: 82px;
+    padding: 0;
+  }
+  .customerinfo li {
+    font-weight: 500;
+    color: #5c5c5c;
+  }
+  .customerinfo #canada {
+    display: inline;
+    width: 300px;
+  }
+  
+  #p14 {
+    font-size: 18;
+    font-weight: bold;
+    position: absolute;
+    left: 82px;
+    top: 742px;
+  }
+  
+  #p15 {
+    font-size: 18;
+    position: absolute;
+    color: #5c5c5c;
+    right: 114px;
+    bottom: 259px;
+  }
+  
+  button {
+    background-color: #aad08d;
+    border: none;
+    width: 444px;
+    height: 80px;
+    font-size: 36px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: 116px;
+    left: 172px;
+    border-radius: 5px;
+  }
